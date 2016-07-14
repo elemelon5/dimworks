@@ -1,2 +1,6 @@
 # dimworks
-dimworks. 3d printing for the brave.
+
+## About
+This is an attempt tp version control the codes for dimworks.
+
+### akoira
