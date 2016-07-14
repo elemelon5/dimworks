@@ -1,6 +1,6 @@
 # dimworks
 
 ## About
-This is an attempt tp version control the codes for dimworks.
+In the spirit of good programming, this is an attempt to version control all the codes for the dimworks project. 
 
 ### akoira
